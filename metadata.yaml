@@ -1,11 +1,16 @@
 _repo: The-Argonauts-of-California-being-the-reminiscenses-of-scenes-and-incidents-that-occurred-in-__75021
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75021-h/images/cover.jpg
 creator:
   author:
     agent_name: Haskins, C. W.
     gutenberg_agent_id: '57780'
     url: http://www.gutenberg.org/2009/agents/57780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75021#The-Argonauts-of-California-being-the-reminiscenses-of-scenes-and-incidents-that-occurred-in-_
 gutenberg_issued: '2025-01-02'
 gutenberg_type: Text
 identifiers:
